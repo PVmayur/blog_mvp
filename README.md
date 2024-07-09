@@ -3,4 +3,4 @@
 
 
 
-![Alt Text]("https://github.com/PVmayur/blog_mvp/blob/main/img%20blog/1.png")
+![Alt Text](imgblog/1.png)
